@@ -32,3 +32,4 @@ date
 figlet "GOOD MORNING"
 
 
+cd 
