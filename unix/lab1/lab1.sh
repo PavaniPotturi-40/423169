@@ -32,4 +32,4 @@ date
 figlet "GOOD MORNING"
 
 
-cd 
+cd git
